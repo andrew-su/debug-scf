@@ -1,0 +1,11 @@
+{
+  "specversion" : "1.0",
+  "type" : "org.springframework",
+  "source" : "https://spring.io/",
+  "id" : "A234-1234-1234",
+  "datacontenttype" : "application/json",
+  "data": {
+      "firstName": "John",
+      "lastName": "Doe"
+  }
+}
